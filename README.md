@@ -59,11 +59,21 @@ This monitor-themed booth serves as a guided, hands-on introduction to Magic Apr
 ---
 ### ✅ Responsibilities Checklist
 
-- [ ] Deploy and operate the Experience Station at selected Home Depot locations  
+- [ ] Deploy and operate Welcome Hub at selected Home Depot locations  
 - [ ] Facilitate live customer interaction with Magic Apron  
 - [ ] Capture feedback and analyze user engagement behavior  
 - [ ] Report outcome-driven success metrics for evaluation
 
+📍 **Pilot Locations**
+
+Magic Apron kiosks will be deployed at the following Home Depot stores in the San Diego region:
+
+- 🛠️ **Poway Home Depot**  
+- 🛠️ **Carmel Mountain Home Depot** 
+- 🛠️ **Kearny Mesa Home Depot** 
+- 🛠️ **Mira Mesa Home Depot** 
+
+🗺️ **[View All Locations on Google Maps](https://maps.app.goo.gl/xZpWEAoTnC7bbAqe6)**
 
 ## I am a Store Associate
 
