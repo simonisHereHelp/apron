@@ -57,6 +57,13 @@ This monitor-themed booth serves as a guided, hands-on introduction to Magic Apr
     Estimated intent-to-purchase or relevance of query to in-store stock and services
 
 ---
+### ✅ Responsibilities Checklist
+
+- [ ] Deploy and operate the Experience Station at selected Home Depot locations  
+- [ ] Facilitate live customer interaction with Magic Apron  
+- [ ] Capture feedback and analyze user engagement behavior  
+- [ ] Report outcome-driven success metrics for evaluation
+
 
 ## I am a Store Associate
 
