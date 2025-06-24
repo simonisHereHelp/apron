@@ -56,7 +56,7 @@ Key questions used to understand customer readiness, perceptions, and feature re
 
 ## 📊 Store AI Success Checklist
 
-- [ ] Do you know how MagicApron queries can help increase store sales?  
+- [ ] Do you know how DeepSeek-styled queries can help increase store sales?  
 - [ ] Can your store run MagicApron workshops on a regular basis?  
 - [ ] Do you have a way to introduce or teach Pro customers about MagicApron?  
 - [ ] Is there a booth or station set up for customers to try MagicApron in-store?  
