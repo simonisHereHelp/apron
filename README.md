@@ -1,92 +1,88 @@
-# Magic Apron Welcome Hub  
-**An In-Store Experience Booth Proposal for The Home Depot**
-
-## Overview
-This monitor-themed booth serves as a guided, hands-on introduction to Magic Apron, giving customers an opportunity to interact with the tool and understand how it enhances their DIY experience.
+# MagicApron In-Store UO Program  
+**A hands-on User Onboarding (UO) experience to engage Home Depot customers in-store**
 
 ---
 
-## Booth Design Highlights
-- **Interactive touchscreen kiosk** for real-time Magic Apron demos  
-- **Lightweight and portable design** for quick setup and removal, reducing disruption and minimizing theft risk  
-- **Branded backdrop** featuring the “Your Smartest DIY Assistant” message  
-- **QR code station** for easy access to Magic Apron on personal devices  
-- **Optional takeaways** such as flyers, stickers, or tip cards for continued engagement
+## 🚧 Program Highlights
+
+- **📍 Booth Setup**  
+  Table booth placed near or at the Special Services entrance for optimal foot traffic.
+
+- **🛠️ Live Demo Sessions**  
+  Real-time interaction with customers using curated MagicApron queries and tasks.
+
+- **📝 Weekly Program Report**  
+  Includes user feedback, session highlights, and engagement analytics.
 
 ---
 
-## Location Strategy
-
-- **Placement:** Indoor, at the **Special Services** entrance — highest visibility zone
-- **Size:** Compact footprint (~6ft x 8ft) to ensure minimal impact on traffic flow
-- **Logistics:** Power and Wi-Fi coordinated with store ops
-
----
-
-## Engagement Targets
+## 🎯 Engagement Targets
 
 - **DIYers**  
-  Strategically targeted to gain insight that helps improve and enhance the Magic Apron experience.
+  Identify usage behaviors and collect feedback to enhance the MagicApron experience for project-focused customers.
 
-- **Influencers**  
-  Targeted to promote awareness and generate word-of-mouth reach through social platforms.
+- **Pro Customers**  
+  Early engagement and guided onboarding to promote long-term adoption among tradespeople and contractors.
 
-- **HD Pros**  
-  Engaged early to seed usage and provide education for long-term adoption among trade professionals.
-
-- **Developers**  
-  Included to encourage exploration of APIs and broaden the platform’s future integration potential.
-
+- **HD Associates**  
+  Internal champions who explore use cases, APIs, and advocate for deeper platform integration in-store.
 
 ---
-## Pilot Duration & Metrics
 
-- **Test Period:** 4 weeks at select locations  
-- **Success Metrics:** *To Be Determined* — subject to discussion with The Home Depot team. Potential metrics may include:
+## 🧠 Demo & Query Coaching
 
-  - **Level of Interest**  
-    Number of user interactions at the booth or through the kiosk
+### Level 1 — General Q&A Queries
+Basic product inquiries, tool lookups, and project recommendations.  
+![Level 1](./archive/hd2.png)
 
-  - **Depth of Interest**  
-    Richness and complexity of query logs, including follow-up questions and engagement duration
+### Level 2 — "DeepSeek" Queries  
+Step-by-step procedural prompts designed for serious project planning and high-revenue engagement.  
+![Level 2](./archive/hd1.png)
 
-  - **Scope of Inferenced Response**  
-    Total number of unique SKUs referenced in Magic Apron responses
-
-  - **Value of Inferenced Response**  
-    Estimated intent-to-purchase or relevance of query to in-store stock and services
+> 💡 _“DeepSeek” = deeper revenue potential for your store._
 
 ---
-### ✅ Responsibilities Checklist
 
-- [ ] Deploy and operate Welcome Hub at selected Home Depot locations  
-- [ ] Facilitate live customer interaction with Magic Apron  
-- [ ] Capture feedback and analyze user engagement behavior  
-- [ ] Report outcome-driven success metrics for evaluation
+## 📋 Survey & Feedback
 
-📍 **Pilot Locations**
+Used to guide product direction and measure user onboarding success:
 
-Magic Apron kiosks will be deployed at the following Home Depot stores in the San Diego region:
+- **ChatGPT Awareness** — Have you used ChatGPT before?
+- **Perceived Value** — What would this help you accomplish?
+- **IoU (Intent to Use)** — Would you consider using MagicApron in future projects?
+- **Feature Wish List** — What features would make this tool more useful?
 
-- 🛠️ **Poway Home Depot**  
-- 🛠️ **Carmel Mountain Home Depot** 
-- 🛠️ **Kearny Mesa Home Depot** 
-- 🛠️ **Mira Mesa Home Depot** 
+---
 
-🗺️ **[View All Locations on Google Maps](https://maps.app.goo.gl/xZpWEAoTnC7bbAqe6)**
+## 📊 Success Metrics for Store Management
 
-## I am a Store Associate
+- [ ] Is your store equipped to host regular MagicApron workshops?
+- [ ] Do you have a process to recruit or educate Pro customers about MagicApron?
+- [ ] Have you set up an in-store station or booth for live MagicApron experiences?
+- [ ] Are team members trained to guide customers through Level 2 "DeepSeek" queries?
 
-![Simon Chen](https://media.licdn.com/dms/image/v2/C5603AQH27wV2BY9YMA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1636338982903?e=1750896000&v=beta&t=k-wIAIGsVN4tOwqoXqpFafoMJB8E7JJkYBH1kTXZJa8)  
+---
+
+## 🔗 Learn More & Join the Conversation
+
+- 🌐 [Reddit Community – MagicApron_LLM](https://www.reddit.com/r/MagicApron_LLM/)  
+
+---
+
+
+![Simon Chen](https://media.licdn.com/dms/image/v2/C5603AQH27wV2BY9YMA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1636338982903?e=1750896000&v=beta&t=k-wIAIGsVN4tOwqoXqpFafoMJB8E7JJkYBH1kTXZJa8)
 
 **Simon Chen**  
-Special Services Associate (LDAP hw4blyp) 
-– Store #8949, Poway, California 
-
-🔗 [LinkedIn: https://www.linkedin.com/in/hsienchen/](https://www.linkedin.com/in/hsienchen/)
 
 **Career Focus:**  
-Patient engagement | Physician education | Customer experience SaaS
+Patient engagement | Physician education | Customer experience SaaS | User Onboarding program
 
-(858)733-1029
-presenter.simon@gmail.com
+now working as a part=time associate at Store #8949 – Poway, CA
+
+
+📞 (858) 733-1029  
+📧 presenter.simon@gmail.com  
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/hsienchen/)
+
+🔗 [Hobbyst Project ApronLLM](https://github.com/simonisHereHelp/apron_LLM)
