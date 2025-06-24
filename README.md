@@ -1,42 +1,42 @@
-# MagicApron In-Store UO Program  
-**A hands-on User Onboarding (UO) experience to engage Home Depot customers in-store**
+# In-Store UO Program, MagicApron  
+**A hands-on User Onboarding (UO) program designed to engage store customers through live demos, booth presence, and feedback collection.**
 
 ---
 
 ## 🚧 Program Highlights
 
 - **📍 Booth Setup**  
-  Table booth placed near or at the Special Services entrance for optimal foot traffic.
+  In-store table booth positioned near or at the Special Services entrance to maximize visibility and foot traffic.
 
-- **🛠️ Live Demo Sessions**  
-  Real-time interaction with customers using curated MagicApron queries and tasks.
+- **🛠️ Demo & Coaching**  
+  Live MagicApron demonstrations with guided query coaching to help customers discover how to use the platform effectively.
 
-- **📝 Weekly Program Report**  
-  Includes user feedback, session highlights, and engagement analytics.
+- **📝 Feedback Collection**  
+  Ongoing gathering of customer insights, feature requests, and engagement summaries for continuous program improvement.
 
 ---
 
 ## 🎯 Engagement Targets
 
 - **DIYers**  
-  Identify usage behaviors and collect feedback to enhance the MagicApron experience for project-focused customers.
+  Observing usage patterns and collecting insights to enhance the MagicApron experience for hands-on project customers.
 
 - **Pro Customers**  
-  Early engagement and guided onboarding to promote long-term adoption among tradespeople and contractors.
+  Early exposure and education to foster adoption among tradespeople and regular contractors.
 
 - **HD Associates**  
-  Internal champions who explore use cases, APIs, and advocate for deeper platform integration in-store.
+  Involving store team members to champion MagicApron internally and explore integration opportunities through APIs and use cases.
 
 ---
 
 ## 🧠 Demo & Query Coaching
 
-### Level 1 — General Q&A Queries
-Basic product inquiries, tool lookups, and project recommendations.  
+### Level 1 — General Q&A Queries  
+Typical customer-facing questions such as product selection, tool usage, or project setup.  
 ![Level 1](./archive/hd2.png)
 
 ### Level 2 — "DeepSeek" Queries  
-Step-by-step procedural prompts designed for serious project planning and high-revenue engagement.  
+Structured, high-context queries designed to help customers plan projects and drive higher revenue.  
 ![Level 2](./archive/hd1.png)
 
 > 💡 _“DeepSeek” = deeper revenue potential for your store._
@@ -45,23 +45,24 @@ Step-by-step procedural prompts designed for serious project planning and high-r
 
 ## 📋 Survey & Feedback
 
-Used to guide product direction and measure user onboarding success:
+Key questions used to understand customer readiness, perceptions, and feature requests:
 
 - **ChatGPT Awareness** — Have you used ChatGPT before?
-- **Perceived Value** — What would this help you accomplish?
-- **IoU (Intent to Use)** — Would you consider using MagicApron in future projects?
-- **Feature Wish List** — What features would make this tool more useful?
+- **Perceived Value** — What would you expect MagicApron to help with?
+- **IoU (Intent to Use)** — Would you consider using it in future DIY or Pro projects?
+- **Feature Wish List** — What else would make this app more useful to you?
 
 ---
 
-## 📊 Success Metrics for Store Management
+## 📊 Store AI Success Checklist
 
-- [ ] Is your store equipped to host regular MagicApron workshops?
-- [ ] Do you have a process to recruit or educate Pro customers about MagicApron?
-- [ ] Have you set up an in-store station or booth for live MagicApron experiences?
-- [ ] Are team members trained to guide customers through Level 2 "DeepSeek" queries?
-
+- [ ] Do you know how MagicApron queries can help increase store sales?  
+- [ ] Can your store run MagicApron workshops on a regular basis?  
+- [ ] Do you have a way to introduce or teach Pro customers about MagicApron?  
+- [ ] Is there a booth or station set up for customers to try MagicApron in-store?  
+- [ ] Are your team members able to guide customers through Level 2 "DeepSeek" queries?
 ---
+
 
 ## 🔗 Learn More & Join the Conversation
 
