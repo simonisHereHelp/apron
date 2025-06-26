@@ -87,3 +87,8 @@ now working as a part=time associate at Store #8949 – Poway, CA
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/hsienchen/)
 
 🔗 [Hobbyst Project ApronLLM](https://github.com/simonisHereHelp/apron_LLM)
+
+## 📁 Additional Case References
+
+- 🔗 [**DFC Website – Patient Recruitment**](./README-cases.md#dfc-website--patient-recruitment)  
+- 🔗 [**Lunchbag CME – Physician Engagement**](./README-cases.md#lunchbag-cme---physician-engagement)
