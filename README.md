@@ -71,7 +71,7 @@ Key questions used to understand customer readiness, perceptions, and feature re
 ---
 
 
-![Simon Chen](https://media.licdn.com/dms/image/v2/C5603AQH27wV2BY9YMA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1636338982903?e=1750896000&v=beta&t=k-wIAIGsVN4tOwqoXqpFafoMJB8E7JJkYBH1kTXZJa8)
+![Simon Chen](https://media.licdn.com/dms/image/v2/C5603AQH27wV2BY9YMA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1636338982903?e=1756339200&v=beta&t=ZMYnUHe4BygYpMFHdyjttsYB0ZEifyZQawYvj3raww0)
 
 **Simon Chen**  
 
@@ -88,7 +88,7 @@ now working as a part=time associate at Store #8949 – Poway, CA
 
 🔗 [Hobbyst Project ApronLLM](https://github.com/simonisHereHelp/apron_LLM)
 
-## 📁 Additional Case References
+## 📁 Career References
 
 - 🔗 [**DFC Website – Patient Recruitment**](./README-cases.md#dfc-website--patient-recruitment)  
 - 🔗 [**Lunchbag CME – Physician Engagement**](./README-cases.md#lunchbag-cme---physician-engagement)
