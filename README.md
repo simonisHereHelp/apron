@@ -1,7 +1,13 @@
 # In-Store UO Program, MagicApron  
 **A hands-on User Onboarding (UO) program designed to engage store customers through live demos, booth presence, and feedback collection.**
 
----
+<br>
+
+![Lowe’s is on a fast track toward LLM deployment—now’s the time for MagicApron to lead in real-time customer engagement.](./archive/Lowes.png)
+(image: Lowe’s is on a fast track toward LLM deployment!)
+<br>
+<br>
+
 
 ## 🚧 Program Highlights
 
@@ -64,22 +70,24 @@ Key questions used to understand customer readiness, perceptions, and feature re
 ---
 
 
-## 🔗 Learn More & Join the Conversation
-
-- 🌐 [Reddit Community – MagicApron_LLM](https://www.reddit.com/r/MagicApron_LLM/)  
-
----
-
-
-![Simon Chen](https://media.licdn.com/dms/image/v2/C5603AQH27wV2BY9YMA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1636338982903?e=1756339200&v=beta&t=ZMYnUHe4BygYpMFHdyjttsYB0ZEifyZQawYvj3raww0)
+## 🔗 Reddit Community:
+- 🌐 [r/ MagicApron_LLM](https://www.reddit.com/r/MagicApron_LLM/)  
+<br>
+<br>
 
 **Simon Chen**  
 
-**Career Focus:**  
-Patient engagement | Physician education | Customer experience SaaS | User Onboarding program
+![Simon Chen](https://media.licdn.com/dms/image/v2/C5603AQH27wV2BY9YMA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1636338982903?e=1756339200&v=beta&t=ZMYnUHe4BygYpMFHdyjttsYB0ZEifyZQawYvj3raww0)
 
-now working as a part=time associate at Store #8949 – Poway, CA
 
+## Career Focus: 
+Customer Engagement SaaS | User Onboarding program
+
+Clients: Pfyzer, Roche, J&J, Eisai-Biogen
+
+now working as a part-time associate at Store #8949 – Poway, CA
+<br>
+<br>
 
 📞 (858) 733-1029  
 📧 presenter.simon@gmail.com  
