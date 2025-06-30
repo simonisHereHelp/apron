@@ -72,6 +72,8 @@ Key questions used to understand customer readiness, perceptions, and feature re
 
 ## 🔗 Reddit Community:
 - 🌐 [r/ MagicApron_LLM](https://www.reddit.com/r/MagicApron_LLM/)  
+
+![alt text](./archive/reddit.png)
 <br>
 <br>
 
