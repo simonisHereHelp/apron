@@ -2,8 +2,7 @@
 **A hands-on User Onboarding (UO) program designed to engage store customers through live demos, booth presence, and feedback collection.**
 
 <br>
-
-![Lowe’s is on a fast track toward LLM deployment—now’s the time for MagicApron to lead in real-time customer engagement.](./archive/Lowes.png)
+<br><img src="./archive/Lowes.png" width ="400"><br>
 (image: Lowe’s is on a fast track toward LLM deployment!)
 <br>
 <br>
@@ -78,9 +77,7 @@ Key questions used to understand customer readiness, perceptions, and feature re
 <br>
 
 **Simon Chen**  
-
-![Simon Chen](https://media.licdn.com/dms/image/v2/C5603AQH27wV2BY9YMA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1636338982903?e=1756339200&v=beta&t=ZMYnUHe4BygYpMFHdyjttsYB0ZEifyZQawYvj3raww0)
-
+<br><img src="https://media.licdn.com/dms/image/v2/C5603AQH27wV2BY9YMA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1636338982903?e=1756339200&v=beta&t=ZMYnUHe4BygYpMFHdyjttsYB0ZEifyZQawYvj3raww0" align= "right" width="200" >
 
 ## Career Focus: 
 Customer Engagement SaaS | User Onboarding program
