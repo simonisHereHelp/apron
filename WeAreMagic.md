@@ -1,4 +1,4 @@
-## WeAreMagic — A Trial Led by Associates to Bring AI Into Daily Store Work  
+# WeAreMagic – A Trial Examining the Value of AI in Daily Work, as Seen by Associates 
 
 <img src="./archive/tarot_apron.png" width="100" align="right">
 
