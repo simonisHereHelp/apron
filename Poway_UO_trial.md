@@ -60,6 +60,19 @@ We’re excited about this trial. We believe using AI can make work more rewardi
 <br><br>
 image: The race is on, OpenAI is in!
 
+## 💡Why Led by Associates?
+
+<img src="./archive/associate.png" width="250" align="right">
+
+
+This project is shaped as a set of real, on-the-floor **associate testimonials** — not top-down messaging.
+
+We aim to show that:
+
+- AI tools like Magic Apron **support**, not replace, the work we do  
+- AI skills are part of **employee growth and development** at workplace
+- Learning AI helps **close gaps** and create new opportunities for associates to grow within the organization
+
 
 \newpage
 
