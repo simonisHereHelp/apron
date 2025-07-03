@@ -43,7 +43,7 @@ We’re excited about this trial. We believe using AI can make work more rewardi
 
 
 
-### Why Store Poway? Why Us?
+## 💡Why Poway? Why Us?
 
 <img src="./archive/Bravo.png" width="250" align="right">
 -Right Customers — Engineers & white-collar DIYers<br>  
@@ -55,7 +55,7 @@ We’re excited about this trial. We believe using AI can make work more rewardi
 (image: In my view, Poway is the very right place!)
 <br><br>
 
-### Why now?
+## 💡Why now?
 <img src="./archive/Lowes.png" width ="400">
 <br><br>
 image: The race is on, OpenAI is in!
@@ -63,7 +63,7 @@ image: The race is on, OpenAI is in!
 
 \newpage
 
-## 2: How to introduce to customers
+## 2: How to introduce? What to say to cust?
 
 - **Level 1 — General Q&A Queries**  
   Covers quick, transactional questions typical in-store.  
@@ -85,7 +85,7 @@ image: The race is on, OpenAI is in!
 
 ---
 
-## How to validate business impact
+## How to validate? How to quantify the business impact?
 
 -- <img src="./archive/earnReward.png" width="340">
 
@@ -93,7 +93,7 @@ image: The race is on, OpenAI is in!
 
 ---
 
-## Collect customer feedbacks
+## How do custs feel? How to collect feedback?
 
 These questions help assess customer readiness and shape product features:
 
@@ -103,6 +103,7 @@ These questions help assess customer readiness and shape product features:
 - **Feature Wish List** — What would make this tool more useful for you?
 <br>
 <br>
+
 
 ## 3: UO Program & LLM — We have done them before 
 *I host forums on related AI-retail topics via Reddit and GitHub.*
