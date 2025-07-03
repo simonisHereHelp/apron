@@ -1,5 +1,5 @@
 # Poway UO Trial by Associates
-  Compassionate Associates Leading the Introduction of AI at Work in the Poway Store 
+  Excited Associates Leading the Introduction of AI at Work in the Poway Store 
 <br>
 <br>
 ---
@@ -23,7 +23,7 @@ We’re excited about this trial. We believe using AI can make work more rewardi
 <br>
 <br>
 
-**Poway UO**: Exploring how this tool can support associate's daily work and boost store revenue.
+**Poway UO Trial**: exploring how AI can support and empower store associates.
 
 
 
