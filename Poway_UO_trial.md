@@ -1,5 +1,8 @@
-# Poway UO Trial — Compassionate Associates Leading the Introduction of AI at Work  
-
+# Poway UO Trial by Associates
+  Compassionate Associates Leading the Introduction of AI at Work in the Poway Store 
+<br>
+<br>
+---
 <img src="./archive/tarot_apron.png" width="100" align="right">
 
 Home Depot has launched a new AI tool called **Magic Apron**.  Here at **Store Poway**, we — the associates — want to try it out.
