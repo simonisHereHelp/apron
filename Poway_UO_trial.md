@@ -14,7 +14,7 @@ We want to start a **User Onboarding (UO)** trial to introduce this tool to cust
 
 - Sale Lead — Whether this AI generate leads to higher sales.
 
-We’re excited about this pilot — because we believe using AI can make work more rewarding for associates — and more impactful for the business.
+We’re excited about this trial. We believe using AI can make work more rewarding for associates — and more sales lead for business at Poway Store.
 
 
 <br>
@@ -33,8 +33,8 @@ We’re excited about this pilot — because we believe using AI can make work m
 
 | **What We’re Looking Into** | **How We’re Testing It** |
 |-----------------------------|---------------------------|
-| - How to introduce Magic Apron to customers | - **Demo Booth** <br><img src="./archive/booth.png" width="300"> |
-| - Can it help bring in more sales? | - **Photo-Based Rewards** <br><img src="./archive/rewards.png" width="300"> |
+| - How to introduce Magic Apron to customers | - **In-Store Demo Booth** <br><img src="./archive/booth.png" width="300"> |
+| - Can it help bring in more sales? | - **Proof of Use and Rewards** <br><img src="./archive/rewards.png" width="300"> |
 | - What do customers think of it? | - **Customer Feedback Forms** <br><img src="./archive/questionnaires.png" width="300"> |
 
 
@@ -60,7 +60,7 @@ image: The race is on, OpenAI is in!
 
 \newpage
 
-## 2: to make a demo  
+## 2: How to introduce to customers
 
 - **Level 1 — General Q&A Queries**  
   Covers quick, transactional questions typical in-store.  
@@ -82,14 +82,15 @@ image: The race is on, OpenAI is in!
 
 ---
 
-### to validate the impact on store sales
-<img src="./archive/earnReward.png" width="340">
+## How to validate business impact
+
+-- <img src="./archive/earnReward.png" width="340">
 
 
 
 ---
 
-### 📋 we want to collect cust feedbacks
+## Collect customer feedbacks
 
 These questions help assess customer readiness and shape product features:
 
@@ -100,7 +101,7 @@ These questions help assess customer readiness and shape product features:
 <br>
 <br>
 
-## 3: UO Program — User Onboarding That Drives Adoption  
+## 3: UO Program & LLM — We have done them before 
 *I host forums on related AI-retail topics via Reddit and GitHub.*
 
 
