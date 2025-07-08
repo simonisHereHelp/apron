@@ -7,10 +7,10 @@
 
 | Feature           | Lowe’s LLM Response              | Home Depot Magic Apron             |
 |------------------|----------------------------------|------------------------------------|
-| **Tiles**         | yes   | yes |
-| **Adhesive**      | yes | yes     |
-| **Grout**         | yes   | yes |
-| **Tools**         | Not listed                    | yes |
+| **Tile Items in Cart**         | yes   | yes |
+| **Adhesive Items in Cart**      | yes | yes     |
+| **Grout Category in Cart**         | yes   | yes |
+| **Tool Items in Cart**         | Not listed                    | yes |
 | **Basket Size**  | est 12 SKUs | est 10 SKUs |
 | **Layout Clarity**        | good, Text with markdown links         | fair, HTML-styled UI cards with icons    |
 | **Guided Prompt** | ⬜ None                           | ☑️ Shown: “What tools do I need?” etc. |
