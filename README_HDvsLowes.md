@@ -1,6 +1,6 @@
 # Home Depot vs Lowes
 
-"Hey there, I want to re-title backsplash. Please recommend products that I would need."
+"Hey there, I want to re-tile backsplash. Please recommend products that I would need."
 
 ![Apron](./archive/compared.jpg)
 
