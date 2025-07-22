@@ -70,7 +70,6 @@ We install and operate **on-site demo booths** that introduce **everyday consume
 
 **San Diego, California, United States**  
 Hybrid service model: on-site UO + remote strategic consulting  
-Active since **Aug 2022**
 
 ---
 
