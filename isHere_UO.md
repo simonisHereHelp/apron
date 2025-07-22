@@ -1,73 +1,89 @@
-# isHere.help – User Onboarding for the AI Retail Era
+# isHere.help – On-Site User Onboarding for Consumer-Facing AI Systems
 
-**Helping Retailers & Service Businesses Onboard Users for Their New AI Systems**
+**Helping Retailers and Service Businesses Guide Consumer Users Through Their New AI Tools**
 
-As AI and Large Language Models (LLMs) continue to transform how businesses serve customers, retailers and service providers are rolling out intelligent assistants and in-house LLM-powered platforms—hereafter referred to as **the New APP**.
+As AI and Large Language Models (LLMs) enter the retail and service landscape, many businesses are launching intelligent assistants and in-house LLM-powered tools—referred to hereafter as **the New APP**.
 
-Yet, adoption doesn’t happen automatically. Successful onboarding requires more than just technical orientation. It demands *real customer education*, *live demonstrations*, and *optimized usage guidance* to unlock the full potential of these powerful systems.
+Yet, adoption by **consumer users** isn’t automatic. They need guidance. They need to know *why* and *how* to use the New APP to solve real-life needs—and businesses need that usage to translate into commercial value.
 
-That’s where **isHere.help** comes in.
-
----
-
-## ✅ What We Do
-
-We provide **hands-on User Onboarding (UO)** programs tailored for businesses launching LLM-based systems. Whether you're deploying an AI assistant at a retail location or introducing a customer service chatbot, we make sure your customers—and your staff—know how to use it **for real results**.
-
-### 📌 Scope of Services
-
-- **UO Strategy & Planning**  
-  We assess your business objectives and New APP capabilities to define success metrics, onboarding goals, and performance outcomes.
-
-- **Query Templates & Best Practices**  
-  We craft and deliver curated example queries tailored to your business domain—enabling users to unlock the most effective responses from your LLM assistant.
-
-- **Live Demo Booth Setup**  
-  We build and operate on-site demo booths where real customers engage with the New APP. We guide users with hands-on examples and capture valuable feedback.
+That’s where **isHere.help** comes in—with a hands-on, **On-Site UO (User Onboarding)** program built for real-world retail and consumer-service environments.
 
 ---
 
-## 🚀 Why Choose isHere.help?
+## 🧭 Scope of Work: On-Site UO Program
 
-- **Fast and Effective Rollouts**  
-  We help accelerate user recruitment and engagement during the critical early phase of your New APP launch.
+- **1. In-Person Consumer UO Delivery**  
+  We design and deliver **on-site onboarding sessions** for consumer users at your store, branch, or customer service location—ensuring your customers know how to use the New APP confidently and effectively.
 
-- **LLM-Optimized User Training**  
-  Most LLM systems are only as good as the prompts they receive. We train users to ask better questions—so your AI can deliver smarter results.
+- **2. Live Feedback from Real Consumers**  
+  Capture insights and reactions directly from **live consumer interactions**, helping improve your AI product and measure adoption progress.
 
-- **Revenue-Oriented Outcomes**  
-  Through targeted query demonstrations, we teach customers how to use your system in ways that increase basket size, drive conversions, and improve service interactions.
-
----
-
-## 🎯 Ideal For
-
-- Retailers launching AI assistants or LLM-driven help desks  
-- Service businesses deploying AI-enhanced booking or support tools  
-- Teams seeking hands-on UO programs for staff and end users  
-- Locations that need live, on-site customer onboarding events
+- **3. Business-Aligned Success Metrics**  
+  Define and track onboarding success in relation to **site-level commerce metrics** like foot traffic conversion, AI usage rates, and average basket size uplift.
 
 ---
 
-## 🧩 Sample Use Cases
+## 💼 Our Services
 
-- Home improvement store launches a DIY Assistant: we staff a demo station to help customers get real-time help on projects  
-- Telecom service introduces AI helpdesk: we onboard walk-in customers on how to use the New APP for billing or troubleshooting  
-- Bank deploys LLM chatbot: we conduct query template workshops for staff to ensure consistent, high-value interactions
+### 🧠 UO Strategy & Planning  
+We align with your business goals and the design of your LLM system to craft a **consumer onboarding journey** that delivers measurable outcomes.
+
+### 📝 Consumer-Friendly Query Templates  
+We create curated, example-based queries to show **consumer users** how to get the best possible results from the New APP—ensuring your AI delivers clarity, speed, and relevance.
+
+### 🏕️ Demo Booth Activation (On-Site)  
+We install and operate **on-site demo booths** that introduce **everyday consumers** to your AI assistant, with walk-up guidance, scenario-based prompts, and real-time use demos.
 
 ---
 
-## 📞 Get in Touch
+## ⚡ Why isHere.help?
 
-Want to bring your New APP to life?  
-Let’s build an onboarding program that works.
+- **Rapid Consumer Rollouts**  
+  We help drive initial **consumer adoption** at launch—boosting engagement from Day One.
+
+- **Better Queries, Smarter Results**  
+  LLMs depend on well-structured input. We teach consumer users how to ask better questions—and help them build confidence in using AI systems.
+
+- **Revenue-Linked UO Strategy**  
+  Our demos don’t just inform—they **drive results**, showing how optimized queries can lead to **larger baskets**, upsells, and return visits.
+
+---
+
+## 🌍 Who We Serve
+
+- **Retailers** launching AI-based product advisors or shopping assistants  
+- **Service businesses** adopting AI for customer service, billing, or appointment scheduling  
+- **Franchise locations or branches** needing on-site activation events  
+- **Any business onboarding consumer users to AI-powered systems**
+
+---
+
+## 🧩 Sample Engagements
+
+- **Home Improvement Retailer** deploys a project assistant: we operate a weekend booth helping shoppers ask tool- or material-specific queries tied to their DIY tasks  
+- **Utility Service Provider** introduces a billing chatbot: we walk-in guide customers at the front counter using printed prompt cards and visual aids  
+- **Coffee Chain** offers an AI-powered store finder and deal recommender: we train consumers to use the New APP through site-based demos and QR-triggered prompts
+
+---
+
+## 📍 Location & Availability
+
+**San Diego, California, United States**  
+Hybrid service model: on-site UO + remote strategic consulting  
+Active since **Aug 2022**
+
+---
+
+## 📞 Contact Us
+
+Need help rolling out your consumer-facing AI system?
 
 📧 hello@ishere.help  
 🌐 www.ishere.help  
-📍 Available for on-site programs across the U.S.
+📍 Available for seasonal or ongoing UO programs across the U.S.
 
 ---
 
 **isHere.help**  
-User Onboarding Specialists for the AI Retail Revolution  
-“LLM-Powered Systems Deserve Real-World Adoption”
+*Consumer-Focused On-Site User Onboarding for the Age of AI*  
+“LLM Tools Work Best When Real Customers Know How to Use Them”
